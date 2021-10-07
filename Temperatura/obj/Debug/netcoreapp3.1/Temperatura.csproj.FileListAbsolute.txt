@@ -1,0 +1,13 @@
+E:\MONDINI 4F\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.exe
+E:\MONDINI 4F\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.deps.json
+E:\MONDINI 4F\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.runtimeconfig.json
+E:\MONDINI 4F\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.runtimeconfig.dev.json
+E:\MONDINI 4F\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.dll
+E:\MONDINI 4F\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.pdb
+E:\MONDINI 4F\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.csproj.AssemblyReference.cache
+E:\MONDINI 4F\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.AssemblyInfoInputs.cache
+E:\MONDINI 4F\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.AssemblyInfo.cs
+E:\MONDINI 4F\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.csproj.CoreCompileInputs.cache
+E:\MONDINI 4F\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.dll
+E:\MONDINI 4F\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.pdb
+E:\MONDINI 4F\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.genruntimeconfig.cache

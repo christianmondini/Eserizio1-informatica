@@ -1,0 +1,13 @@
+E:\MONDINI 4F\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.exe
+E:\MONDINI 4F\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.deps.json
+E:\MONDINI 4F\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.runtimeconfig.json
+E:\MONDINI 4F\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.runtimeconfig.dev.json
+E:\MONDINI 4F\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.dll
+E:\MONDINI 4F\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.pdb
+E:\MONDINI 4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.csproj.AssemblyReference.cache
+E:\MONDINI 4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.AssemblyInfoInputs.cache
+E:\MONDINI 4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.AssemblyInfo.cs
+E:\MONDINI 4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.csproj.CoreCompileInputs.cache
+E:\MONDINI 4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.dll
+E:\MONDINI 4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.pdb
+E:\MONDINI 4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.genruntimeconfig.cache

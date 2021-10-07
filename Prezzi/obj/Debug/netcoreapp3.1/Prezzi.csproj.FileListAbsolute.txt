@@ -1,0 +1,13 @@
+E:\MONDINI 4F\Prezzi\bin\Debug\netcoreapp3.1\Prezzi.exe
+E:\MONDINI 4F\Prezzi\bin\Debug\netcoreapp3.1\Prezzi.deps.json
+E:\MONDINI 4F\Prezzi\bin\Debug\netcoreapp3.1\Prezzi.runtimeconfig.json
+E:\MONDINI 4F\Prezzi\bin\Debug\netcoreapp3.1\Prezzi.runtimeconfig.dev.json
+E:\MONDINI 4F\Prezzi\bin\Debug\netcoreapp3.1\Prezzi.dll
+E:\MONDINI 4F\Prezzi\bin\Debug\netcoreapp3.1\Prezzi.pdb
+E:\MONDINI 4F\Prezzi\obj\Debug\netcoreapp3.1\Prezzi.csproj.AssemblyReference.cache
+E:\MONDINI 4F\Prezzi\obj\Debug\netcoreapp3.1\Prezzi.AssemblyInfoInputs.cache
+E:\MONDINI 4F\Prezzi\obj\Debug\netcoreapp3.1\Prezzi.AssemblyInfo.cs
+E:\MONDINI 4F\Prezzi\obj\Debug\netcoreapp3.1\Prezzi.csproj.CoreCompileInputs.cache
+E:\MONDINI 4F\Prezzi\obj\Debug\netcoreapp3.1\Prezzi.dll
+E:\MONDINI 4F\Prezzi\obj\Debug\netcoreapp3.1\Prezzi.pdb
+E:\MONDINI 4F\Prezzi\obj\Debug\netcoreapp3.1\Prezzi.genruntimeconfig.cache
